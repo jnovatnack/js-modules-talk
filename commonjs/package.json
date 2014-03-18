@@ -1,0 +1,9 @@
+{
+  "name": "my-rental-app",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-browserify": "~1.2.0",
+    "console-browserify": "~1.0.3"
+  }
+}
